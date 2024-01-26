@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "imgUrl": "assets/images/icons-categories.png"
+  },
+  {
+    "id": 2,
+    "name": "Clothing",
+    "imgUrl": "assets/images/icons-categories.png"
+  },
+  {
+    "id": 3,
+    "name": "Home Appliances",
+    "imgUrl": "assets/images/icons-categories.png"
+  },
+  {
+    "id": 4,
+    "name": "Books",
+    "imgUrl": "assets/images/icons-categories.png"
+  },
+  {
+    "id": 5,
+    "name": "Sports",
+    "imgUrl": "assets/images/icons-categories.png"
+  }
+]

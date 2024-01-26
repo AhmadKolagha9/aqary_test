@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "assets/images/product-image.png",
+    "name": "Product 1",
+    "dsc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 19.99
+  },
+  {
+    "id": 2,
+    "imgUrl": "assets/images/product-image.png",
+    "name": "Product 2",
+    "dsc": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 29.99
+  },
+  {
+    "id": 3,
+    "imgUrl": "assets/images/product-image.png",
+    "name": "Product 3",
+    "dsc": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "price": 39.99
+  },
+  {
+    "id": 4,
+    "imgUrl": "assets/images/product-image.png",
+    "name": "Product 4",
+    "dsc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 49.99
+  },
+  {
+    "id": 5,
+    "imgUrl": "assets/images/product-image.png",
+    "name": "Product 5",
+    "dsc": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 59.99
+  },
+  {
+    "id": 6,
+    "imgUrl": "assets/images/product-image.png",
+    "name": "Product 6",
+    "dsc": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+    "price": 69.99
+  },
+  {
+    "id": 7,
+    "imgUrl": "assets/images/product-image.png",
+    "name": "Product 7",
+    "dsc": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+    "price": 79.99
+  },
+  {
+    "id": 8,
+    "imgUrl": "assets/images/product-image.png",
+    "name": "Product 8",
+    "dsc": "Suspendisse potenti. Vivamus venenatis vestibulum velit, sit amet hendrerit libero condimentum a.",
+    "price": 89.99
+  },
+  {
+    "id": 9,
+    "imgUrl": "assets/images/product-image.png",
+    "name": "Product 9",
+    "dsc": "Proin congue ipsum vel ullamcorper fermentum. Quisque non bibendum elit.",
+    "price": 99.99
+  },
+  {
+    "id": 10,
+    "imgUrl": "assets/images/product-image.png",
+    "name": "Product 10",
+    "dsc": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "price": 109.99
+  }
+]
+
